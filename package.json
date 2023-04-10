@@ -1,0 +1,23 @@
+{
+  "name": "nova-pasta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/monike29/revisao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monike29/revisao/issues"
+  },
+  "homepage": "https://github.com/monike29/revisao#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
